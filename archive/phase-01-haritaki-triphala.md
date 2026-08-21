@@ -1,5 +1,7 @@
 # Phase 1 Archive — Haritaki / Triphala
 
+> **Repository role:** Preserves the traditional-medicine branch while separating historical use, real chemistry, and unsupported pineal-specific claims.
+
 **Date:** August 15, 2026
 
 ## Trigger
