@@ -1,5 +1,7 @@
 # Project History — From “Pineal Detox” to Biomineralization Research
 
+> **Repository role:** Chronological reconstruction of how the investigation evolved, including abandoned ideas, corrections, and evidence-driven pivots.
+
 This file preserves how the investigation actually evolved. It is intentionally chronological and includes abandoned ideas, citation corrections, and hypotheses that later failed.
 
 ## 0. Origin — August 13, 2026: zeolite / fulvic-mineral claim
