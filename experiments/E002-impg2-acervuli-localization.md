@@ -1,5 +1,7 @@
 # E002 — IMPG2/SPACRCAN Localization in Human Acervuli
 
+> **Repository role:** Defines the direct spatial experiment that can confirm or substantially weaken IMPG2/SPACRCAN as a human acervulus scaffold candidate.
+
 ## Question
 Is IMPG2/SPACRCAN physically associated with human pineal acervuli?
 
