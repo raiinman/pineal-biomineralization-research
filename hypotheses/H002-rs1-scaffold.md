@@ -1,5 +1,7 @@
 # H002 — RS1 is a maintenance/organization factor for pineal mineral architecture
 
+> **Repository role:** Tests whether RS1 links sympathetic state to mineral organization or mature-acervulus maintenance.
+
 ## Basis
 2024 rodent perturbation data directly changes calcification organization.
 
