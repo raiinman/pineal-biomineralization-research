@@ -1,5 +1,7 @@
 # Research Log
 
+> **Repository role:** Session-by-session scientific notebook recording what question was asked, what changed, and why the research moved in a new direction.
+
 ## 2026-08-13 — Project origin: zeolite / fulvic pineal-detox claim
 
 ### Trigger
@@ -153,7 +155,7 @@ An existing transcriptomic dataset links SCG manipulation with norepinephrine/cA
 
 ---
 
-## 2026-08-20 — Research archive established
+## 2026-08-20 — Canonical research archive established
 
 ### Problem
 Research had become distributed across long conversation windows and project files, creating risk of citation drift and loss of intermediate reasoning.
