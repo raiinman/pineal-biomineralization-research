@@ -1,5 +1,7 @@
 # Conversation Reconstruction — Deep Research / Archive Thread
 
+> **Repository role:** Reconstructs the transition from broad chemistry into historical anatomy, organic-scaffold research, SPACRCAN, and the mature-maintenance question.
+
 **Date:** August 16, 2026
 
 This reconstruction captures the major research pivots after the initial chemistry matrix had already become established.
