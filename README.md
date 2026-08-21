@@ -2,7 +2,27 @@
 
 A version-controlled research ledger for the scientific investigation of pineal calcification, acervuli, biomineralization, and mature-deposit regression.
 
-## Core question
+## Start here
+
+This repository deliberately preserves **the entire evolution of the investigation**, including early ideas that were later rejected.
+
+- [`PROJECT_HISTORY.md`](PROJECT_HISTORY.md) — chronological reconstruction from the first zeolite/fulvic “pineal detox” conversation onward.
+- [`MODEL_EVOLUTION.md`](MODEL_EVOLUTION.md) — how each working model changed or failed.
+- [`COMPOUND_LEDGER.md`](COMPOUND_LEDGER.md) — why each compound/intervention entered the research and its current status.
+- [`PROVENANCE.md`](PROVENANCE.md) — distinguishes exact artifacts, recovered conversation history, reconstruction, and primary scientific evidence.
+- [`MASTER_MATRIX.md`](MASTER_MATRIX.md) — current evidence state.
+- [`CLAIM_LEDGER.md`](CLAIM_LEDGER.md) — atomic claims with evidence and replication status.
+
+## Where the project actually began
+
+The investigation did **not** begin with the current biomineralization model. It began on August 13, 2026 with a social-media claim involving **zeolite + fulvic minerals** and a proposed pineal “cleanse/reactivation” concept. That model was later dismantled by the evidence.
+
+The archive preserves this phase rather than rewriting history:
+- [`archive/phase-00-zeolite-fulvic-origin.md`](archive/phase-00-zeolite-fulvic-origin.md)
+- [`archive/phase-01-haritaki-triphala.md`](archive/phase-01-haritaki-triphala.md)
+- [`archive/historical-text-and-anatomy-lane.md`](archive/historical-text-and-anatomy-lane.md)
+
+## Core scientific question now
 
 **What is pineal calcification made of, how does it form, and can an already mature pineal acervulus naturally lose mineral or regress?**
 
@@ -46,6 +66,12 @@ Every material finding should be promoted into:
 - the relevant paper note
 - the relevant pathway/hypothesis file
 - `RESEARCH_LOG.md`
+
+Equally important:
+
+> **Failed hypotheses are archived, not erased.**
+
+That makes it possible to see why the project changed direction rather than presenting hindsight as foresight.
 
 ## Important correction already logged
 
