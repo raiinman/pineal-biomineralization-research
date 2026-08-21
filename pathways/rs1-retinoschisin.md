@@ -1,5 +1,7 @@
 # Pathway — RS1 / Retinoschisin
 
+> **Repository role:** Mechanistic pathway file for RS1-dependent cell/matrix organization and its possible connection to mineral architecture and maintenance.
+
 ## Current status
 Top specific experimentally supported molecular candidate for **pineal mineral architecture**.
 
