@@ -1,5 +1,7 @@
 # Open Questions
 
+> **Repository role:** Prioritized queue of unresolved scientific questions that should generate searches, analyses, or experiments.
+
 ## Highest priority
 
 1. **What changes during the first 3–14 days after adult SCGx that could explain the 12-week Champney phenotype?**
