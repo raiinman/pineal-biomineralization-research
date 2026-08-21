@@ -1,5 +1,7 @@
 # Citation Corrections & Drift Ledger
 
+> **Repository role:** Records claims that were misattributed, overstated, or blurred in later summaries and preserves the corrected primary-source interpretation.
+
 ## A001 — Adult SCGx regression attribution
 
 ### Incorrect / drifted form
