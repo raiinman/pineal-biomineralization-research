@@ -1,5 +1,7 @@
 # E003 — RS1 Response After Adult SCGx
 
+> **Repository role:** Defines a time-resolved experiment to test whether RS1 changes before the adult post-SCGx concretion-loss phenotype appears.
+
 ## Question
 Does sympathetic denervation alter RS1 before concretion loss becomes visible?
 
