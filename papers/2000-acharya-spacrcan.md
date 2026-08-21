@@ -1,5 +1,7 @@
 # Acharya et al. — 2000 — SPACRCAN / IMPG2
 
+> **Repository role:** Primary-paper dossier for the discovery that IMPG2/SPACRCAN is produced by pinealocytes and has extracellular-matrix chemistry relevant to the scaffold hypothesis.
+
 **Title:** SPACRCAN, a novel human interphotoreceptor matrix hyaluronan-binding proteoglycan synthesized by photoreceptors and pinealocytes  
 **Journal:** Journal of Biological Chemistry 275(10):6945–6955  
 **DOI:** 10.1074/jbc.275.10.6945  
