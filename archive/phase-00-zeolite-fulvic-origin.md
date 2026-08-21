@@ -1,5 +1,7 @@
 # Phase 0 Archive — Zeolite / Fulvic “Pineal Detox” Origin
 
+> **Repository role:** Preserves the project’s actual starting hypothesis and the evidence that later forced it to be abandoned.
+
 **Date:** August 13, 2026 (Arizona time)
 
 ## Why this file exists
