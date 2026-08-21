@@ -1,5 +1,7 @@
 # Claim Ledger
 
+> **Repository role:** Atomic evidence register for claims, evidence tiers, primary support, and replication limits.
+
 Status vocabulary: **SUPPORTED / PARTLY SUPPORTED / UNRESOLVED / CONTRADICTED / NOT FOUND**
 
 | ID | Claim | Status | Tier | Best evidence | Replication / caveat |
