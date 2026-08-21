@@ -1,5 +1,7 @@
 # Reconstruction Provenance
 
+> **Repository role:** Defines how primary literature, saved artifacts, recovered conversations, and reconstructed history are distinguished so evidence provenance stays auditable.
+
 The repository combines three kinds of source material:
 
 1. **Primary scientific literature** — papers, abstracts, datasets, archival scans.
