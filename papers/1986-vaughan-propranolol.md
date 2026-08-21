@@ -1,5 +1,7 @@
 # Vaughan, Joshi & Reiter — 1986
 
+> **Repository role:** Primary-paper dossier for pharmacological evidence that β-adrenergic signaling contributes to gerbil concretion formation.
+
 **Title:** Daily propranolol administration reduces pineal concretion formation in the Mongolian gerbil  
 **DOI:** 10.3181/00379727-182-42354  
 **PMID:** 3714719
