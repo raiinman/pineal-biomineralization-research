@@ -8,12 +8,30 @@ A version-controlled research ledger for the scientific investigation of pineal 
 
 This repository deliberately preserves **the entire evolution of the investigation**, including early ideas that were later rejected.
 
+### Research system
+- [`WORKFLOW.md`](WORKFLOW.md) — canonical route from source discovery → paper dossier → claim → hypothesis → experiment → next question.
+- [`RESEARCH_IDS.md`](RESEARCH_IDS.md) — permanent `P####`, `C###`, `H###`, `E###`, `RQ###`, and `A###` identifiers used across GitHub, Zotero, and Obsidian.
+- [`SOURCE_INDEX.md`](SOURCE_INDEX.md) — canonical paper/source registry.
+- [`knowledge/`](knowledge/) — Obsidian-compatible linked synthesis and concept graph.
+- [`data/`](data/) and [`scripts/`](scripts/) — reproducible quantitative-analysis workspace.
+- [`ZOTERO_SETUP.md`](ZOTERO_SETUP.md) — source-library organization and paper-note conventions.
+
+### Scientific record
 - [`PROJECT_HISTORY.md`](PROJECT_HISTORY.md) — chronological reconstruction from the first zeolite/fulvic “pineal detox” conversation onward.
 - [`MODEL_EVOLUTION.md`](MODEL_EVOLUTION.md) — how each working model changed or failed.
 - [`COMPOUND_LEDGER.md`](COMPOUND_LEDGER.md) — why each compound/intervention entered the research and its current status.
 - [`PROVENANCE.md`](PROVENANCE.md) — distinguishes exact artifacts, recovered conversation history, reconstruction, and primary scientific evidence.
 - [`MASTER_MATRIX.md`](MASTER_MATRIX.md) — current evidence state.
 - [`CLAIM_LEDGER.md`](CLAIM_LEDGER.md) — atomic claims with evidence and replication status.
+- [`RESEARCH_LOG.md`](RESEARCH_LOG.md) — chronological laboratory-style log.
+
+## Three-layer stack
+
+**Zotero = source library** — PDFs, bibliographic metadata, annotations.  
+**This repository = scientific record** — claims, hypotheses, audits, experiments, data/code.  
+**Obsidian = interface over this repository** — clone the repo locally and open the repository folder itself as the Obsidian vault.
+
+GitHub Issues carry the active `RQ###` research queue. A GitHub Project can provide a visual board over those Issues without becoming a second task database.
 
 ## Where the project actually began
 
@@ -59,25 +77,19 @@ Key active research branches:
 - **Tier 5 — Mechanistic inference**
 - **Tier 6 — Search gap / not yet demonstrated**
 
-## Research rule
+## Research rules
 
 > **No important conclusion should exist only in a chat.**
 
-Every material finding should be promoted into:
-- `CLAIM_LEDGER.md`
-- the relevant paper note
-- the relevant pathway/hypothesis file
-- `RESEARCH_LOG.md`
-
-Equally important:
+Every material finding should be promoted into the appropriate durable objects: paper dossier, claim, pathway/hypothesis, experiment, audit, and research log.
 
 > **Failed hypotheses are archived, not erased.**
 
-That makes it possible to see why the project changed direction rather than presenting hindsight as foresight.
+> **A search result is not a paper, a review is not an exact replication, and animal pineal evidence is not human pineal proof.**
 
 ## Important correction already logged
 
-The adult-regression experiment is **Champney et al. 1985**, not the juvenile prevention experiment of Reiter et al. 1976. See `audits/citation-corrections.md`.
+The adult-regression experiment is **P0002 — Champney et al. 1985**, not the juvenile prevention experiment **P0001 — Reiter, Welsh & Vaughan 1976**. See `audits/citation-corrections.md`.
 
 ## Scope
 
