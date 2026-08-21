@@ -1,5 +1,7 @@
 # Source Index — Core Papers
 
+> **Repository role:** Fast bibliographic index of the core primary papers currently anchoring the project.
+
 | Key | Citation | DOI / identifier |
 |---|---|---|
 | Reiter1976 | Reiter RJ, Welsh MG, Vaughan MK. Age-related changes in the intact and sympathetically denervated gerbil pineal gland. | 10.1002/aja.1001460405 |
