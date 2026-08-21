@@ -168,3 +168,67 @@ GitHub is the canonical research ledger. Zotero is recommended later as the pape
 
 ### Repository rule
 No important result remains only in conversation. Failed hypotheses are archived rather than erased.
+
+---
+
+## 2026-08-21 — Zotero source-library automation validated
+
+### Goal
+Convert the core bibliography from a manually managed list into a structured Zotero source library aligned with the repository IDs.
+
+### Result
+The Zotero organizer was run successfully in Zotero Desktop.
+
+Validated output:
+- `Pineal Biomineralization` root collection created/reused;
+- 13 standard subcollections ready;
+- 8 of the 9 core papers automatically recognized, tagged, and filed on the first run.
+
+### Missing record identified
+`P0006` — Ibañez Rodriguez et al. 2018 — was not imported during the initial bulk identifier step.
+
+The primary record was rechecked and the repository now uses:
+- DOI `10.1002/cne.24505`
+- PMID `30246867`
+- PMCID `PMC6196128`
+
+The bulk identifier file and Zotero organizer were corrected accordingly.
+
+### Automation naming correction
+The temporary `zotero-bootstrap.js` name was retired and replaced with:
+
+`automation/zotero-organize-core-library.js`
+
+The new name reflects the durable function of the script rather than a one-time setup state.
+
+---
+
+## 2026-08-21 — Research-agent governance formalized
+
+### Problem
+The project now spans long conversation histories, historical archives, human and animal evidence, materials chemistry, molecular biology, transcriptomics, Zotero, and GitHub. Without explicit operating rules, a future agent could easily reintroduce citation drift or collapse important evidence boundaries.
+
+### Resolution
+Created root-level `AGENTS.md` as the mandatory operating manual for future agents and research assistants.
+
+It formalizes:
+- mandatory startup reading order;
+- evidence tiers;
+- primary-source acquisition rules;
+- atomic-claim discipline;
+- formation vs regression separation;
+- materials chemistry vs living-biology separation;
+- hypothesis and falsification handling;
+- conservative replication terminology;
+- negative-search wording;
+- historical/traditional-source handling;
+- permanent research IDs;
+- Zotero organization rules;
+- GitHub commit and Issue discipline;
+- session-completion checklist;
+- data/code reproducibility;
+- mechanistic-research vs treatment-claim boundary;
+- canonical correction examples for Champney, microglia, IMPG2, and RS1.
+
+### Permanent operational rule
+Any future agent should use the repository to continue the existing investigation rather than restarting from a generic pineal-gland overview or relying on conversation memory alone.
