@@ -1,5 +1,7 @@
 # Hartley et al. — 2015 — GSE63309
 
+> **Repository role:** Primary-paper and dataset dossier linking SCG manipulation, norepinephrine/cAMP signaling, and candidate extracellular-matrix transcriptional changes.
+
 **Title:** Neurotranscriptomics: The Effects of Neonatal Stimulus Deprivation on the Rat Pineal Transcriptome  
 **Journal:** PLoS One 10(9):e0137548  
 **DOI:** 10.1371/journal.pone.0137548  
