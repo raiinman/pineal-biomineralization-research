@@ -1,5 +1,7 @@
 # [Author] — [Year]
 
+> **Repository role:** Template for forensic reconstruction of a primary paper, including experimental design, direct observations, interpretation boundaries, replication, and citation drift.
+
 **Title:**  
 **Journal:**  
 **DOI:**  
