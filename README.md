@@ -9,12 +9,14 @@ A version-controlled research ledger for the scientific investigation of pineal 
 This repository deliberately preserves **the entire evolution of the investigation**, including early ideas that were later rejected.
 
 ### Research system
+- [`AGENTS.md`](AGENTS.md) — **mandatory operating manual for any AI agent, research assistant, script, or collaborator contributing to the project. Read this before substantive research.**
 - [`WORKFLOW.md`](WORKFLOW.md) — canonical route from source discovery → paper dossier → claim → hypothesis → experiment → next question.
 - [`RESEARCH_IDS.md`](RESEARCH_IDS.md) — permanent `P####`, `C###`, `H###`, `E###`, `RQ###`, and `A###` identifiers used across GitHub, Zotero, and Obsidian.
 - [`SOURCE_INDEX.md`](SOURCE_INDEX.md) — canonical paper/source registry.
 - [`knowledge/`](knowledge/) — Obsidian-compatible linked synthesis and concept graph.
 - [`data/`](data/) and [`scripts/`](scripts/) — reproducible quantitative-analysis workspace.
 - [`ZOTERO_SETUP.md`](ZOTERO_SETUP.md) — source-library organization and paper-note conventions.
+- [`automation/`](automation/) — validated Zotero organization scripts and import identifiers.
 
 ### Scientific record
 - [`PROJECT_HISTORY.md`](PROJECT_HISTORY.md) — chronological reconstruction from the first zeolite/fulvic “pineal detox” conversation onward.
@@ -29,7 +31,7 @@ This repository deliberately preserves **the entire evolution of the investigati
 
 **Zotero = source library** — PDFs, bibliographic metadata, annotations.  
 **This repository = scientific record** — claims, hypotheses, audits, experiments, data/code.  
-**Obsidian = interface over this repository** — clone the repo locally and open the repository folder itself as the Obsidian vault.
+**Obsidian = optional interface over this repository** — when used locally, open the repository folder itself as the Obsidian vault rather than creating an independent research copy.
 
 GitHub Issues carry the active `RQ###` research queue. A GitHub Project can provide a visual board over those Issues without becoming a second task database.
 
