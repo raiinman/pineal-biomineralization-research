@@ -1,5 +1,7 @@
 # Bukreeva et al. — 2023
 
+> **Repository role:** Human primary-paper dossier for direct structural evidence that established pineal concrements can crack, hollow, separate, and degrade.
+
 **Title:** Micromorphology of pineal gland calcification in age-related neurodegenerative diseases  
 **Journal:** Medical Physics 50(3):1601–1613  
 **DOI:** 10.1002/mp.16080  
