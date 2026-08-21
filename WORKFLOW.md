@@ -2,6 +2,20 @@
 
 **Repository role:** Defines how evidence moves from discovery into the durable scientific record.
 
+## Agent preflight
+
+Before starting substantive work, any agent or research assistant must read:
+
+1. `README.md`
+2. `AGENTS.md`
+3. `RESEARCH_IDS.md`
+4. `MASTER_MATRIX.md`
+5. `CLAIM_LEDGER.md`
+6. `OPEN_QUESTIONS.md`
+7. the relevant `RQ###` Issue and linked paper/pathway/hypothesis files.
+
+`AGENTS.md` controls evidence language, replication terminology, source handling, negative-search wording, Zotero/GitHub discipline, and research-session completion requirements.
+
 ## One source of truth per layer
 
 - **Zotero:** source file, bibliographic metadata, PDF annotations
@@ -29,6 +43,8 @@ Prefer, in order:
 
 A claim should not be promoted from a search-result snippet when the primary paper can reasonably be obtained.
 
+If only an abstract is accessible, mark the paper/claim **ABSTRACT-ONLY** until the full source is obtained.
+
 ### 3. Save the source in Zotero
 
 Capture:
@@ -40,7 +56,9 @@ Capture:
 - PDF when legally available
 - annotations
 
-Assign the next permanent `P####` ID from `RESEARCH_IDS.md`.
+Assign the next permanent `P####` ID from `SOURCE_INDEX.md` / `RESEARCH_IDS.md`.
+
+The validated Zotero organization workflow is documented in `automation/README.md`.
 
 ### 4. Create or update the GitHub paper dossier
 
@@ -154,3 +172,19 @@ For future transcriptomic and quantitative work:
 Never manually overwrite raw data.
 
 When upstream datasets are large and stably hosted elsewhere, store accession numbers, retrieval instructions, checksums, and scripts rather than duplicating huge files in Git.
+
+---
+
+# End-of-session requirement
+
+A substantive research session is not complete until the agent checks whether it must update:
+
+- `SOURCE_INDEX.md` / paper dossier;
+- `CLAIM_LEDGER.md`;
+- `MASTER_MATRIX.md`;
+- relevant `H###` and `E###` files;
+- `audits/`;
+- the active `RQ###` Issue;
+- `RESEARCH_LOG.md`.
+
+No important finding should remain only in chat.
