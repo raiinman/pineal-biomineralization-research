@@ -1,5 +1,7 @@
 # Conversation Reconstruction — Origin Thread
 
+> **Repository role:** Reconstructs the first long pineal conversation so the project’s starting assumptions and user-driven course corrections remain visible.
+
 **Thread:** “Pineal Gland and Zeolite”  
 **Start:** August 13, 2026 (Arizona time)
 
