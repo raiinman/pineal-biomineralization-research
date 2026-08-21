@@ -1,5 +1,7 @@
 # E001 — Modern Champney Replication
 
+> **Repository role:** Defines the decisive modern experiment for determining whether individual pre-existing adult concretions truly lose mineral after SCGx.
+
 ## Question
 Do individual pre-existing adult pineal concretions lose mineral after bilateral SCGx?
 
