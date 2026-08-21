@@ -1,5 +1,7 @@
 # Compound / Intervention Ledger
 
+> **Repository role:** Tracks why each compound or intervention entered the project, what evidence was found, and which mechanistic job—if any—it can actually support.
+
 This ledger records **why a compound entered the project**, what evidence was found, and why its status changed. It is not a treatment list.
 
 | Candidate | Why it entered the project | Current scientific status | Role classification |
