@@ -1,7 +1,8 @@
-# Zarb et al. — 2021
+# P0007 — Zarb et al. — 2021
 
 > **Repository role:** Imported-mechanism dossier establishing that microglia can control calcium-phosphate brain calcification outside the pineal gland.
 
+**Research ID:** P0007  
 **Title:** Microglia control small vessel calcification via TREM2  
 **Journal:** Science Advances 7(9):eabc4898  
 **DOI:** 10.1126/sciadv.abc4898  
