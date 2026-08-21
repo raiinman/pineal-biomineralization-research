@@ -1,5 +1,7 @@
 # Zotero Setup — Later Step
 
+> **Repository role:** Defines how the external paper/PDF library should mirror the GitHub evidence structure without turning the repository into a document dump.
+
 Zotero is the paper/PDF library; GitHub is the reasoning ledger.
 
 ## Suggested collection
