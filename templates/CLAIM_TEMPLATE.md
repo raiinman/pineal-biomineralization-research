@@ -1,5 +1,7 @@
 # C___ — Claim title
 
+> **Repository role:** Template for recording a single scientific claim with its evidence tier, replication status, boundaries, contradictions, and falsification criteria.
+
 ## Claim
 
 ## Status
