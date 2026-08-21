@@ -1,5 +1,7 @@
 # Pineal Biomineralization Research
 
+> **Repository role:** Canonical entry point for the project, its evidence standards, research history, and active scientific questions.
+
 A version-controlled research ledger for the scientific investigation of pineal calcification, acervuli, biomineralization, and mature-deposit regression.
 
 ## Start here
