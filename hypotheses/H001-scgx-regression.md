@@ -1,5 +1,7 @@
 # H001 — Adult SCGx causes active regression of established pineal concretions
 
+> **Repository role:** Core regression hypothesis built around the Champney 1985 adult-SCGx phenotype.
+
 ## Observation
 Champney et al. 1985 reported drastic reduction in adult gerbil pineal concretion number 12 weeks after bilateral SCGx.
 
