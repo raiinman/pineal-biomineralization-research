@@ -1,5 +1,7 @@
 # Historical Text & Anatomy Lane
 
+> **Repository role:** Preserves the historical-search detour while explicitly separating traditional metaphor from anatomical and biochemical evidence.
+
 ## Why this lane exists
 
 The project briefly asked whether ancient or historical traditions contained useful observations about the pineal gland before modern decalcification claims were imposed on the subject.
