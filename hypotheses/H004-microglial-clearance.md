@@ -1,5 +1,7 @@
 # H004 — Pineal microglia clear mineral fragments during post-SCGx regression
 
+> **Repository role:** Tests a narrow clearance mechanism in which microglia remove small mineral debris after acervulus destabilization rather than engulfing whole concretions.
+
 ## Basis
 1. SCGx activates pineal microglia during days 3–13.
 2. Brain microglia can control and phagocytose calcium-phosphate mineral.
