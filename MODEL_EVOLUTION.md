@@ -1,5 +1,7 @@
 # Model Evolution & Falsification History
 
+> **Repository role:** Records each major working model, what evidence weakened or killed it, and which pieces survived into later hypotheses.
+
 This file tracks the project's **working models**, not just its final conclusions.
 
 ## Model A — “Detox the gland”
