@@ -153,7 +153,7 @@ An existing transcriptomic dataset links SCG manipulation with norepinephrine/cA
 
 ---
 
-## 2026-08-20 — Canonical repository bootstrap
+## 2026-08-20 — Research archive established
 
 ### Problem
 Research had become distributed across long conversation windows and project files, creating risk of citation drift and loss of intermediate reasoning.
