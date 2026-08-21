@@ -1,5 +1,7 @@
 # Pathway — Microglial Clearance
 
+> **Repository role:** Mechanistic pathway file separating direct pineal microglial evidence from imported evidence about calcium-phosphate clearance elsewhere in the brain.
+
 ## What is directly established in pineal tissue
 SCGx causes a transient microglial activation/proliferation response in adult rat pineal glands.
 
