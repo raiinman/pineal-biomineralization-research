@@ -1,7 +1,8 @@
-# Champney et al. — 1985
+# P0002 — Champney et al. — 1985
 
 > **Repository role:** Primary-paper dossier for the central adult-SCGx observation that established pineal concretion burden can fall dramatically.
 
+**Research ID:** P0002  
 **Title:** Superior cervical ganglionectomy results in the loss of pineal concretions in the adult male gerbil (Meriones unguiculatus)  
 **Authors:** Thomas H. Champney, Bhaskar N. Joshi, Mary K. Vaughan, Russell J. Reiter  
 **Journal:** The Anatomical Record 211(4):465–468  
