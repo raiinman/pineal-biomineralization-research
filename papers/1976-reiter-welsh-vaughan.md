@@ -1,5 +1,7 @@
 # Reiter, Welsh & Vaughan — 1976
 
+> **Repository role:** Primary-paper dossier for the foundational juvenile SCGx experiment showing prevention of normal concretion formation.
+
 **Title:** Age-related changes in the intact and sympathetically denervated gerbil pineal gland  
 **Journal:** American Journal of Anatomy 146(4):427–432  
 **DOI:** 10.1002/aja.1001460405
