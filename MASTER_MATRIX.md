@@ -1,5 +1,7 @@
 # Master Evidence Matrix
 
+> **Repository role:** High-level snapshot of the current evidence strength, tier, and interpretation for every major research lane.
+
 Last major update: 2026-08-20
 
 | Lane / claim | Current rating | Evidence tier | Current interpretation |
