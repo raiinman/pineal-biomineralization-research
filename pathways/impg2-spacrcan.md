@@ -1,5 +1,7 @@
 # Pathway — IMPG2 / SPACRCAN
 
+> **Repository role:** Mechanistic pathway file for the unresolved proteoglycan/HA scaffold hypothesis.
+
 ## Current status
 High-value candidate, but direct acervulus evidence remains absent.
 
