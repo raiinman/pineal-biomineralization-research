@@ -1,5 +1,7 @@
 # Pathway — Sympathetic / Adrenergic Control
 
+> **Repository role:** Mechanistic pathway file linking SCG/norepinephrine signaling to pineal physiology, concretion formation, and the unresolved adult-regression phenotype.
+
 ## Established chain
 
 SCN/light-dark control  
