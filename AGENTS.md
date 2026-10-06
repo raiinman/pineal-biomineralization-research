@@ -490,3 +490,7 @@ RS1 has direct rodent experimental support as a pineal mineral-architecture fact
 # 22. Final rule
 
 > **The repository must show not only what we currently think, but why we think it, what could falsify it, and how the conclusion changed over time.**
+
+## README presentation
+
+Keep `README.md` centered, with original decorative artwork in `readme-banner.png`, its brief in `readme-banner-prompt.txt`, compact logo badges using Shields.io `label-message-color` URLs, and a linked section index with verified project-file shortcuts. Center documentation tables and code containers while preserving code spacing. Public repository metrics may use live Shields.io or Badgen badges. Preserve project status, attribution, evidence boundaries, and operational authority; artwork and badges are presentation only.
